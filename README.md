@@ -9,9 +9,6 @@ This project consists of two parts: a frontend server and a backend server. The 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Running the Servers](#running-the-servers)
-- [API Endpoints](#api-endpoints)
-  - [Posts](#posts)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -41,3 +38,20 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository
    ```bash
    git clone https://github.com/nimdz/Blog_Api.git
+
+
+### Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+- Fork the repository
+- Create your feature branch (git checkout -b feature/AmazingFeature)
+- Commit your changes (git commit -m 'Add some AmazingFeature')
+- Push to the branch (git push origin feature/AmazingFeature)
+- Open a pull request
+
+### license
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+Feel free to customize this further according to your project's specifics or any additional details you want to include.
